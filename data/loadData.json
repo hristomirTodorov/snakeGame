@@ -1,0 +1,16 @@
+﻿{
+  "scoreDisplay": "Score: ",
+  "gameBkg": "#add640",
+  "snake": {
+    "startFromX": 30,
+    "startFromY": 30,
+    "len": 3
+
+  },
+  "game": {
+    "startSpeed": 150,
+    "speedIncrease": 10,
+    "maxSpeed": 40,
+    "increaseSpeedLevels": 2
+  }
+}
